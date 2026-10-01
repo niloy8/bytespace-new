@@ -26,7 +26,7 @@ export default function HeroHeader() {
       </h1>
 
       {/* 2. Subtitle */}
-      <p className="font-satoshi font-normal text-white/95 text-sm sm:text-base md:text-[18px] leading-[160%] max-w-204.75 mt-4 sm:mt-5 px-2">
+      <p className="font-satoshi font-normal text-white/95 text-sm sm:text-base md:text-[16px] leading-[160%] max-w-204.75 mt-4 sm:mt-5 px-2">
         Unlock your creativity, gain valuable knowledge, and grow your business with our wide range of courses.
       </p>
 
